@@ -1,0 +1,47 @@
+							Товары
+1)Продажа Apple Mac
+	а)MacBook Air
+	б)MacBook Pro
+	в)iMac 24”
+	г)Mac Pro
+	д)Mac mini
+	е)Mac Studio
+2)Продажа Apple iPad
+	а)iPad Pro
+	б)iPad Air
+	в)iPad mini
+	г)iPad
+3)Продажа Apple iPhone
+	а)iPhone 14 Pro
+	б)iPhone 14
+	в)iPhone 13
+	г)iPhone SE
+	д)iPhone 12
+4)Продажа Apple Watch
+	а)Apple Watch Series 8
+	б)Apple Watch SE
+	в)Apple Watch Ultra
+	г)Apple Watch Nike
+	д)Apple Watch Hermès
+	е)Apple Watch Studio
+5)Продажа Apple AirPods
+	а)AirPods 2nd Generation
+	б)AirPods 3rd Generation
+	в)AirPods Pro 2nd Generation
+	г)iAirPods Max
+
+
+
+							Услуги
+1)Ремонт и замена
+	а)Ремонт и замена аккумулятора
+	б)Ремонт и замена экрана
+	в)Ремонт и замена динамиков 
+	г)Ремонт и замена фронтальной камеры
+	д)Ремонт и замена задних камер
+	е)Ремонт и замена микрофона 
+	ё)Ремонт и замена внутренних компонентов
+2)Обслуживание
+	а)Доставка по России
+	б)Дисконтная карта
+	в)Бесплатная поддержка
