@@ -1,34 +1,40 @@
 							Товары
 1)Продажа Apple Mac
-	а)MacBook Air
-	б)MacBook Pro
-	в)iMac 24”
+	а)MacBook Air Серый космос https://www.citilink.ru/product/noutbuk-apple-macbook-pro-a2338-m2-8-core-8gb-ssd512gb-10-core-gpu-13-1793640/
+	б)MacBook Pro Полночный    https://www.citilink.ru/product/noutbuk-apple-macbook-air-a2681-m1-8-core-8gb-ssd256gb-8-core-gpu-13-6-1843708/
+		      Серебристый  https://www.citilink.ru/product/noutbuk-apple-macbook-air-13-3-ips-apple-m1-16gb-256gb-ssd-mac-os-z127-1451532/
+		      Золотистый   https://www.citilink.ru/product/noutbuk-apple-macbook-air-13-3-ips-apple-m1-16gb-256gb-ssd-mac-os-z12a-1451557/
+-------------------------------------------------------------------------------------------------------------------------------------------------------		      
+	в)iMac 24”  зелёном, жёлтом, оранжевом, розовом, фиолетовом, синем и серебристом https://www.apple.com/ru/newsroom/2021/04/imac-features-all-new-design-in-vibrant-colors-m1-chip-and-45k-retina-display/
 	г)Mac Pro
 	д)Mac mini
-	е)Mac Studio
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+	е)Mac Studio Белый
 2)Продажа Apple iPad
-	а)iPad Pro
+	а)iPad Pro Серебристый, серый, золотистый, зеленый, голубой, розовый, фиолетовый https://www.dns-shop.ru/product/e3c3aab9f380ed20/102-planset-apple-ipad-2021-wi-fi-64-gb-serebristyj/
 	б)iPad Air
 	в)iPad mini
 	г)iPad
 3)Продажа Apple iPhone
-	а)iPhone 14 Pro
+	а)iPhone 14 Pro Голубой, темная ночь, фиолетовый, сияющая звезда, золотой, серебристый, темно-фиолетовый https://www.citilink.ru/catalog/smartfony/APPLE--iphone-14/
 	б)iPhone 14
-	в)iPhone 13
-	г)iPhone SE
-	д)iPhone 12
+---------------------------------------------------------------------------------------------------------------------------------------------------------------	
+	в)iPhone 13 Розовый, синий, альпийский зеленый, темная ночь, серебристый, золотой https://www.citilink.ru/catalog/smartfony/APPLE--iphone-13/
+	г)iPhone SE 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+	д)iPhone 12 белый, красный, зеленый, черный, синий, фиолетовый
 4)Продажа Apple Watch
-	а)Apple Watch Series 8
+	а)Apple Watch Series 8 Сияющая звезда, синий, темная ночь, зеленый, титан, красный, серый космос
 	б)Apple Watch SE
 	в)Apple Watch Ultra
-	г)Apple Watch Nike
-	д)Apple Watch Hermès
+	г)Apple Watch Nike темная ночь, сияющая звезда
+	д)Apple Watch Hermès Серебристый, золотой
 	е)Apple Watch Studio
 5)Продажа Apple AirPods
-	а)AirPods 2nd Generation
-	б)AirPods 3rd Generation
-	в)AirPods Pro 2nd Generation
-	г)iAirPods Max
+	а)AirPods 2nd Generation Белый
+	б)AirPods 3rd Generation Белый
+	в)AirPods Pro 2nd Generation Белый
+	г)iAirPods Max Зеленый, розовый, серебристый, серый, синий
 
 
 
