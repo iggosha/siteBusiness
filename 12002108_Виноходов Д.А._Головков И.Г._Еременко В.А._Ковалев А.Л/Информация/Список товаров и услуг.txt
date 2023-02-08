@@ -1,53 +1,53 @@
 							Товары
 1)Продажа Apple Mac
-	а)MacBook Air Серый космос https://www.citilink.ru/product/noutbuk-apple-macbook-pro-a2338-m2-8-core-8gb-ssd512gb-10-core-gpu-13-1793640/
-	б)MacBook Pro Полночный    https://www.citilink.ru/product/noutbuk-apple-macbook-air-a2681-m1-8-core-8gb-ssd256gb-8-core-gpu-13-6-1843708/
+	а)MacBook Air 153к Серый космос https://www.citilink.ru/product/noutbuk-apple-macbook-pro-a2338-m2-8-core-8gb-ssd512gb-10-core-gpu-13-1793640/
+	б)MacBook Pro 300к Полночный    https://www.citilink.ru/product/noutbuk-apple-macbook-air-a2681-m1-8-core-8gb-ssd256gb-8-core-gpu-13-6-1843708/
 		      Серебристый  https://www.citilink.ru/product/noutbuk-apple-macbook-air-13-3-ips-apple-m1-16gb-256gb-ssd-mac-os-z127-1451532/
 		      Золотистый   https://www.citilink.ru/product/noutbuk-apple-macbook-air-13-3-ips-apple-m1-16gb-256gb-ssd-mac-os-z12a-1451557/
 -------------------------------------------------------------------------------------------------------------------------------------------------------		      
-	в)iMac 24”  зелёном, жёлтом, оранжевом, розовом, фиолетовом, синем и серебристом https://www.apple.com/ru/newsroom/2021/04/imac-features-all-new-design-in-vibrant-colors-m1-chip-and-45k-retina-display/
-	г)Mac Pro
-	д)Mac mini
+	в)iMac 24” 179к  зелёном, жёлтом, оранжевом, розовом, фиолетовом, синем и серебристом https://www.apple.com/ru/newsroom/2021/04/imac-features-all-new-design-in-vibrant-colors-m1-chip-and-45k-retina-display/
+	г)Mac Pro 460к
+	д)Mac mini 103к
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-	е)Mac Studio Белый
+	е)Mac Studio 186к Белый
 2)Продажа Apple iPad
-	а)iPad Pro Серебристый, серый, золотистый, зеленый, голубой, розовый, фиолетовый https://www.dns-shop.ru/product/e3c3aab9f380ed20/102-planset-apple-ipad-2021-wi-fi-64-gb-serebristyj/
-	б)iPad Air
-	в)iPad mini
-	г)iPad
+	а)iPad Pro 80к Серебристый, серый, золотистый, зеленый, голубой, розовый, фиолетовый https://www.dns-shop.ru/product/e3c3aab9f380ed20/102-planset-apple-ipad-2021-wi-fi-64-gb-serebristyj/
+	б)iPad Air 54к
+	в)iPad mini 43к
+	г)iPad 30к
 3)Продажа Apple iPhone
-	а)iPhone 14 Pro Голубой, темная ночь, фиолетовый, сияющая звезда, золотой, серебристый, темно-фиолетовый https://www.citilink.ru/catalog/smartfony/APPLE--iphone-14/
-	б)iPhone 14
+	а)iPhone 14 Pro 113к Голубой, темная ночь, фиолетовый, сияющая звезда, золотой, серебристый, темно-фиолетовый https://www.citilink.ru/catalog/smartfony/APPLE--iphone-14/
+	б)iPhone 14 76к
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------	
-	в)iPhone 13 Розовый, синий, альпийский зеленый, темная ночь, серебристый, золотой https://www.citilink.ru/catalog/smartfony/APPLE--iphone-13/
-	г)iPhone SE 
+	в)iPhone 13 66к Розовый, синий, альпийский зеленый, темная ночь, серебристый, золотой https://www.citilink.ru/catalog/smartfony/APPLE--iphone-13/
+	г)iPhone SE 37к
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-	д)iPhone 12 белый, красный, зеленый, черный, синий, фиолетовый
+	д)iPhone 12 60к белый, красный, зеленый, черный, синий, фиолетовый
 4)Продажа Apple Watch
-	а)Apple Watch Series 8 Сияющая звезда, синий, темная ночь, зеленый, титан, красный, серый космос
-	б)Apple Watch SE
-	в)Apple Watch Ultra
-	г)Apple Watch Nike темная ночь, сияющая звезда
-	д)Apple Watch Hermès Серебристый, золотой
-	е)Apple Watch Studio
+	а)Apple Watch Series 8 43к Сияющая звезда, синий, темная ночь, зеленый, титан, красный, серый космос
+	б)Apple Watch SE 27к
+	в)Apple Watch Ultra 76к
+	г)Apple Watch Nike 35к темная ночь, сияющая звезда
+	д)Apple Watch Hermès 210к Серебристый, золотой
+	е)Apple Watch Studio 27к
 5)Продажа Apple AirPods
-	а)AirPods 2nd Generation Белый
-	б)AirPods 3rd Generation Белый
-	в)AirPods Pro 2nd Generation Белый
-	г)iAirPods Max Зеленый, розовый, серебристый, серый, синий
+	а)AirPods 2nd Generation 11к Белый
+	б)AirPods 3rd Generation 16к Белый
+	в)AirPods Pro 2nd Generation 24к Белый
+	г)iAirPods Max 49к Зеленый, розовый, серебристый, серый, синий
 
 
 
 							Услуги
-1)Ремонт и замена
-	а)Ремонт и замена аккумулятора
-	б)Ремонт и замена экрана
-	в)Ремонт и замена динамиков 
-	г)Ремонт и замена фронтальной камеры
-	д)Ремонт и замена задних камер
-	е)Ремонт и замена микрофона 
-	ё)Ремонт и замена внутренних компонентов
+1)Ремонт и замена (Если гарантия беспл.)
+	а)Ремонт и замена аккумулятора |айфон 5к|макбук 8к|айпад 6к|
+	б)Ремонт и замена экрана  |айфон 15-30к|макбук или мак 10-40к|айпад 13-20|
+	в)Ремонт и замена динамиков |айфон 3к|макбук мак 6к|айпад 3к|
+	г)Ремонт и замена фронтальной камеры |1-3к|
+	д)Ремонт и замена задних камер айфон 10к
+	е)Ремонт и замена микрофона 1-5к 
+	ё)Ремонт и замена внутренних компонентов |Договорная|
 2)Обслуживание
-	а)Доставка по России
-	б)Дисконтная карта
+	а)Доставка по России(хрупкий 1к, ускоренный 750, обычная 500)
+	б)Дисконтная карта(Наврятли)
 	в)Бесплатная поддержка
