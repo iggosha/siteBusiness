@@ -1,4 +1,2 @@
-# siteBusiness
+# Лабораторные работы 1-3 по основам инфокоммуникационного бизнеса
 - Наш сайт: https://newtonshop.fwscart.com/
-- Редактор сайта: https://admin.freewebstore.com/editor.aspx
-- Сайт Apple: https://www.apple.com/
