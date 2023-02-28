@@ -1,0 +1,44 @@
+Ссылки для продвижения
+
+№	HTML код ссылки
+1	<a href=https://newtonshop.fwscart.com/>ноутбук</a> 
+2	<a href=https://newtonshop.fwscart.com/>техника</a> 
+3	<a href=https://newtonshop.fwscart.com/>наушники</a> 
+4	<a href=https://newtonshop.fwscart.com/>смартфон</a> 
+5	<a href=https://newtonshop.fwscart.com/>планшет</a> 
+6	<a href=https://newtonshop.fwscart.com/>apple</a> 
+7	<a href=https://newtonshop.fwscart.com/>ios</a> 
+8	<a href=https://newtonshop.fwscart.com/>беспроводные наушники</a> 
+9	<a href=https://newtonshop.fwscart.com/>mac</a> 
+10	<a href=https://newtonshop.fwscart.com/>смарт часы</a> 
+11	<a href=https://newtonshop.fwscart.com/>ipad</a> 
+12	<a href=https://newtonshop.fwscart.com/>апл</a> 
+13	<a href=https://newtonshop.fwscart.com/>эпл</a> 
+14	<a href=https://newtonshop.fwscart.com/>ноут</a> 
+15	<a href=https://newtonshop.fwscart.com/>айфон цена</a> 
+16	<a href=https://newtonshop.fwscart.com/>airpods</a> 
+17	<a href=https://newtonshop.fwscart.com/>купить ноутбук</a> 
+18	<a href=https://newtonshop.fwscart.com/>apple watch</a> 
+19	<a href=https://newtonshop.fwscart.com/>купить apple</a> 
+20	<a href=https://newtonshop.fwscart.com/>купить телелфон</a> 
+21	<a href=https://newtonshop.fwscart.com/>купить смартфон</a> 
+22	<a href=https://newtonshop.fwscart.com/>macbook</a> 
+23	<a href=https://newtonshop.fwscart.com/>мак</a> 
+24	<a href=https://newtonshop.fwscart.com/>купить наушники</a> 
+25	<a href=https://newtonshop.fwscart.com/>моноблолк</a> 
+26	<a href=https://newtonshop.fwscart.com/>магазин техники</a> 
+27	<a href=https://newtonshop.fwscart.com/>лучшие смартфоны</a> 
+28	<a href=https://newtonshop.fwscart.com/>apple россия</a> 
+29	<a href=https://newtonshop.fwscart.com/>блютуз наушники</a> 
+30	<a href=https://newtonshop.fwscart.com/>macbook pro</a> 
+31	<a href=https://newtonshop.fwscart.com/>смартфоны 2022</a> 
+32	<a href=https://newtonshop.fwscart.com/>смартфоны 2023</a> 
+33	<a href=https://newtonshop.fwscart.com/>iphone pro</a> 
+34	<a href=https://newtonshop.fwscart.com/>электронные часы</a> 
+35	<a href=https://newtonshop.fwscart.com/>наушники apple</a> 
+36	<a href=https://newtonshop.fwscart.com/>купить беспроводные наушники</a> 
+37	<a href=https://newtonshop.fwscart.com/>часы apple</a> 
+38	<a href=https://newtonshop.fwscart.com/>apple store</a> 
+39	<a href=https://newtonshop.fwscart.com/>apple цена</a> 
+40	<a href=https://newtonshop.fwscart.com/>айфон apple</a> 
+

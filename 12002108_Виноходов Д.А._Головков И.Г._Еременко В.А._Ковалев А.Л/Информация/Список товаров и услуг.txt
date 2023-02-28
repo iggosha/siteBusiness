@@ -1,38 +1,44 @@
-							Товары
-1)Продажа Apple Mac
-	а)MacBook Air M1
-	б)MacBook Air M2
-	в)MacBook Pro
-	г)Mac Pro
-2)Продажа Apple iPad
-	а)iPad Pro
-	б)iPad Air
-	в)iPad mini
-	г)iPad
-3)Продажа Apple iPhone
-	а)iPhone 14 Pro
-	б)iPhone 14
-	в)iPhone 13
-	г)iPhone SE
-4)Продажа Apple Watch
-	а)Apple Watch Series 8
-	б)Apple Watch SE
-	в)Apple Watch Ultra
-5)Продажа Apple AirPods
-	а)AirPods 2nd Generation
-	б)AirPods 3rd Generation
-	в)AirPods Pro 2nd Generation
-	г)iAirPods Max
+                                                           # Товары
 
-
-							Услуги
-1)Ремонт и замена
-	а)Аккумулятор
-	б)Экран
-	в)Динамики 
-	г)Камеры
-	д)Микрофон
-	е)Внутренние компоненты
-2)Обслуживание
-	а)Доставка по России
-	б)Бесплатная поддержка
+## 1) Apple Mac
+* MacBook Air 13.3” M1 
+* MacBook Air 13.6” M2
+* MacBook Pro 13.3” M2
+* MacBook Pro 14.2” M2
+* MacBook Pro 16.2” M2 
+## 2) Apple iPad
+* iPad Pro 12.9''
+* iPad Pro 11''
+* iPad Air 10.9'
+* iPad mini 8.3''
+* iPad 10 10.9''
+* iPad 9 gen 10.2''
+## 3) Apple iPhone
+* iPhone 14 Pro 6.7''
+* iPhone 14 Pro 6.1'' 75000
+* iPhone 14 6.7''
+* iPhone 14 6.1''
+* iPhone 13 6.1''
+* iPhone 13 5.4''
+* iPhone SE 4.7''
+## 4) Apple Watch
+* Apple Watch Series 8 45mm
+* Apple Watch Series 8 41mm
+* Apple Watch SE 44mm
+* Apple Watch SE 40mm
+* Apple Watch Ultra 49mm
+## 5) Apple AirPods
+* AirPods 2
+* AirPods 3
+* AirPods Pro 2
+* AirPods Max
+                                                             # Услуги  
+## 1) Ремонт и замена
+* Ремонт и замена аккумулятора
+* Ремонт и замена экрана
+* Ремонт и замена динамиков 
+* Ремонт и замена фронтальной камеры
+* Ремонт и замена задних камер
+* Ремонт и замена микрофона 
+* Ремонт и замена внутренних компонентов
+## 2) Доставка до почтового отделения
